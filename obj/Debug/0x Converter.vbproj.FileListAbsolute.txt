@@ -1,0 +1,13 @@
+C:\Users\MONSTERMC\Downloads\0x-Converter-main\0x-Converter-main\obj\Debug\0x Converter.vbproj.AssemblyReference.cache
+C:\Users\MONSTERMC\Downloads\0x-Converter-main\0x-Converter-main\obj\Debug\_0x_Converter.Ox_converter.resources
+C:\Users\MONSTERMC\Downloads\0x-Converter-main\0x-Converter-main\obj\Debug\Resources.resources
+C:\Users\MONSTERMC\Downloads\0x-Converter-main\0x-Converter-main\obj\Debug\0x Converter.vbproj.GenerateResource.cache
+C:\Users\MONSTERMC\Downloads\0x-Converter-main\0x-Converter-main\obj\Debug\0x Converter.vbproj.CoreCompileInputs.cache
+C:\Users\MONSTERMC\Downloads\0x-Converter-main\0x-Converter-main\obj\Debug\0x Converter.exe
+C:\Users\MONSTERMC\Downloads\0x-Converter-main\0x-Converter-main\obj\Debug\0x Converter.pdb
+C:\Users\MONSTERMC\Downloads\0x-Converter-main\0x-Converter-main\bin\Debug\0x Converter.exe.config
+C:\Users\MONSTERMC\Downloads\0x-Converter-main\0x-Converter-main\bin\Debug\0x Converter.exe
+C:\Users\MONSTERMC\Downloads\0x-Converter-main\0x-Converter-main\bin\Debug\0x Converter.pdb
+C:\Users\MONSTERMC\Downloads\0x-Converter-main\0x-Converter-main\bin\Debug\Guna.UI2.dll
+C:\Users\MONSTERMC\Downloads\0x-Converter-main\0x-Converter-main\bin\Debug\Siticone.Desktop.UI.dll
+C:\Users\MONSTERMC\Downloads\0x-Converter-main\0x-Converter-main\obj\Debug\0x Converter.vbproj.CopyComplete
